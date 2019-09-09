@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(input)
   if input % 3 == 0
-    puts "Fizz"
+    "Fizz"
   elseif input % 5 == 0
-    puts "Buzz"
+    "Buzz"
 end
